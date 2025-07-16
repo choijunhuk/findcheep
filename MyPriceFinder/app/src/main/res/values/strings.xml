@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Price Finder</string>
+    <string name="hint_search">상품명을 검색해보세요</string>
+    <string name="msg_input_search">검색어를 입력해주세요.</string>
+    <string name="msg_sort_default">기본 정렬</string>
+    <string name="msg_sort_price_asc">가격 낮은 순 정렬</string>
+    <string name="msg_sort_price_desc">가격 높은 순 정렬</string>
+    <string name="desc_favorite_add">즐겨찾기 추가</string>
+    <string name="desc_favorite_remove">즐겨찾기 취소</string>
+    <string name="error_fetch_api">상품을 불러오는 중 문제가 발생했습니다: %1$s</string>
+    <string name="error_fetch_general">상품을 불러오는 중 문제가 발생했습니다: %1$s</string>
+    <string name="error_rate_limit">API 요청 횟수를 초과했습니다. 잠시 후 다시 시도해주세요.</string>
+    <string name="tab_search">검색</string>
+    <string name="tab_favorite">즐겨찾기</string>
+    <string name="desc_product_image">상품 이미지</string>
+    <string name="action_open_in_browser">웹에서 보기</string>
+</resources>
